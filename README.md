@@ -21,8 +21,6 @@ Mostre na tela todos os valores através dos gets.
 
 3. (2,5 pontos)
 Complete as classes abaixo e suponha estarem em arquivos distintos:
-
-<>
 public class Calculadora {
     public static double somar(Dupla<Double> d) {
     }
@@ -43,4 +41,3 @@ public class Main {
     }
 }
 
-</>
