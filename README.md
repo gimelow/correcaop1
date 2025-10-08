@@ -21,7 +21,7 @@ Mostre na tela todos os valores através dos gets.
 
 3. (2,5 pontos)
 Complete as classes abaixo e suponha estarem em arquivos distintos:
-public class Calculadora {
+`public class Calculadora {
     public static double somar(Dupla<Double> d) {
     }
     public static double subtrair(Dupla<Double> d) {
@@ -30,14 +30,14 @@ public class Calculadora {
     }
     public static double dividir(Dupla<Double> d) throws Exception {
     }
-}
+}`
 
-public class Main {
+`public class Main {
     public static void main(String[] args) {
         // Realize uma soma, uma subtração,
         // uma multiplicação e uma divisão
         // Mostre os resultados na tela
         // Feche o método e a classe
     }
-}
+}`
 
