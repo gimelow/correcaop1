@@ -10,7 +10,7 @@ Implemente a funcionalidade do cliente e todas as classes envolvidas, na qual se
 - Mostrar todas as transações na tela.
 
 2. (2,5 pontos)
-Implemente a classe Dupla<I> que carrega dois atributos de tipo paramétrico T.
+Implemente a classe 'Dupla<I>' que carrega dois atributos de tipo paramétrico T.
 Faça um construtor e seus gets.
 Crie uma classe main que possua instâncias para:
 - Dupla<Integer>
